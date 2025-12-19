@@ -15,10 +15,10 @@ nav:
   #         - Find the genes related regions: Tutorials-single/t_findgenes.ipynb
   #         - Calculating the gene activity matrix of scATAC-seq: Tutorials-single/t_gene_activity.ipynb
   #         - Pseudobulk visualization: Tutorials-single/t_pseudobulk_visual.ipynb
-  - Lecture:
-      - Lecture1: Lecture1: lecture/lecture1.md
-      - Lecture2: Lecture2: lecture/lecture2.md
-      - Lecture3: Lecture3: lecture/lecture3.md
+  - Lecture: lecture/lecture1.md
+      # - Lecture1: Lecture1: lecture/lecture1.md
+      # - Lecture2: Lecture2: lecture/lecture2.md
+      # - Lecture3: Lecture3: lecture/lecture3.md
   # - Reference:
   # - API documentation: api/index.md
   - Release notes: Release_notes.md
